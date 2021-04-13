@@ -1,7 +1,10 @@
 html {
 	height: 100%;
 }
-
+body{
+	margin-top: 130px;
+}
+	
 .heading {
 	text-align: center;
 	/*background-color: #E9E9E9;*/
@@ -9,10 +12,10 @@ html {
 	color: #FFFFFF;
 	padding-top: 18px;
 	padding-bottom: 18px;
-	margin-top: -10px;
-	margin-bottom: 5px;
-	margin-left: -10px;
-	margin-right: -10px;
+	left: 0;
+	top:0;
+	right: 0;
+	position: fixed;
 }
 .title{
 	margin-bottom: -2px;
