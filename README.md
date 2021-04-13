@@ -5,7 +5,7 @@
 - [Demo Link](#demo-link)
 - [Overview](#overview)
 - [Directory Structure](#directory-structure)
-- [Installation](#installation)
+
 
 
 ## Screenshots
@@ -22,7 +22,7 @@ This Flask app can be used to predict Flight Fares!
 
 
 ## Directory Structure
-Your directory structure should look like this
+Directory structure should look like this:
 ```
 -static
   -styles.css
@@ -36,8 +36,3 @@ Your directory structure should look like this
 -rf_flight.pkl
 ```
 
-## Installation
-
- To install all requirements:
- 
-`pip install -r requirements.txt`
