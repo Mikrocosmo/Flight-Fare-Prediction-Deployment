@@ -27,8 +27,8 @@ Directory structure should look like this:
 ├── static
 │   ├── styles.css
 ├── templates
-│  ├── flight_fare.html
-│  ├── result.html
+│   ├── flight_fare.html
+│   ├── result.html
 ├── app.py
 ├── Procfile
 ├── Readme.md
