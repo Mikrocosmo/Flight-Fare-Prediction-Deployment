@@ -18,21 +18,20 @@ https://flight-fare-predict-app.herokuapp.com/
 
 
 ## Overview
-This Flask app can be used to predict Flight Fares!
+This Flask web app can be used to predict Flight Fares!
 
 
 ## Directory Structure
 Directory structure should look like this:
 ```
-|── static
-|────styles.css
-|──templates
-|────flight_fare.html
-|────result.html
-|──app.py
-|──Procfile
-|──Readme.md
-|──requirements.txt
-|──rf_flight.pkl
+├── static
+│   ├── styles.css
+├── templates
+│  ├── flight_fare.html
+│  ├── result.html
+├── app.py
+├── Procfile
+├── Readme.md
+├── requirements.txt
+├── rf_flight.pkl
 ```
-
