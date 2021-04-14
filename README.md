@@ -38,6 +38,6 @@ Directory structure should look like this:
 ```
 
 
-All other info regarding this project aa well as notebooks can be found here : <br>
+All other info regarding this project as well as notebooks can be found here : <br>
 [Flight-Fare-Prediction](https://github.com/mandarvast19/Machine-Learning-Projects/tree/main/Flight-Fare-Prediction)
 
