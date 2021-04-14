@@ -18,7 +18,8 @@ https://flight-fare-predict-app.herokuapp.com/
 
 
 ## Overview
-This Flask web app can be used to predict Flight Fares!
+This web app is built using Flask and deployed on Heroku.<br>
+It predicts flight fare based on Airline, Duration, No of Stops, Source and Destination.
 
 
 ## Directory Structure
